@@ -1,0 +1,2 @@
+# tksidekick
+tksidekick is for beginning tkinter users and those who don't use tkinter often enough to keep it fresh in mind.  It queries and displays all those commands and methods for widets instantly from your system.  This is meant to be a free program distributed and explained from www.wikipython.com. No fees, no cookies, no registration, no contributions accepted, no hassles and no apologies if eveything is not perfect - its a hobby site.
